@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'simple-app';
-  message = 'Welcome to my simple app!';
+  message = 'Welcome to my simple app test!';
 }
